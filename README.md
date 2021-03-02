@@ -48,30 +48,32 @@ Here are some ideas to get you started:
 
 ### Linguagens e ferramentas:
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/html5.svg" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/css3.svg" /></a>
-<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="Javascript" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/js.svg" /></a>
-<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React.JS" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/react.svg" /></a>
-<a href="https://reactnative.dev/" target="_blank"><img align="left" alt="React Native" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/react-native.png" /></a>
-<a href="https://nodejs.org/" target="_blank"><img align="left" alt="Node.JS" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/nodejs.svg" /></a>
-<a href="https://flutter.dev/" target="_blank"><img align="left" alt="Flutter" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/flutter.svg" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img align="left" alt="Firebase" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/firebase.svg" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/python.svg"/> </a>
-<a href="https://www.java.com/" target="_blank"> <img align="left" alt="Java" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/java.svg"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/c-programming.svg"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/c%2B%2B.svg"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/git.svg"/> </a>
-<a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/github.svg"/> </a>
+<div>
+    <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/html5.svg" /></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/css3.svg" /></a>
+    <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="Javascript" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/js.svg" /></a>
+    <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React.JS" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/react.svg" /></a>
+    <a href="https://reactnative.dev/" target="_blank"><img align="left" alt="React Native" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/react-native.png" /></a>
+    <a href="https://nodejs.org/" target="_blank"><img align="left" alt="Node.JS" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/nodejs.svg" /></a>
+    <a href="https://flutter.dev/" target="_blank"><img align="left" alt="Flutter" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/flutter.svg" /></a>
+    <a href="https://firebase.google.com/" target="_blank"><img align="left" alt="Firebase" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/firebase.svg" /></a>
+    <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/python.svg"/> </a>
+    <a href="https://www.java.com/" target="_blank"> <img align="left" alt="Java" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/java.svg"/> </a>
+    <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/c-programming.svg"/> </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/c%2B%2B.svg"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/git.svg"/> </a>
+    <a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/github.svg"/> </a>
+</div>
 
 <br />
 <br />
 
 ### Softwares:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/adobexd.svg"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/illustrator.svg"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/photoshop.svg"/> </a>
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/adobexd.svg"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/illustrator.svg"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/photoshop.svg"/> </a>
 <br />
 <br />
 
