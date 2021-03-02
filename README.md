@@ -1,6 +1,6 @@
-### Hi there 
+<!--### Hi there 
 
-<!--
+
 **rafaelfl/rafaelfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,6 +23,27 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@rafaelfernandeslopes" target="_blank"><img align="left" alt="Rafael Fernandes Lopes | Medium" width="22px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/medium.svg" />
 <a href="https://dev.to/rafaelfl" target="_blank"><img align="left" alt="dev to rafaelfl" width="22px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/devto.svg" /></a>
   
+<div>
+- 💼 Professor Adjunto na UFMA (Universidade Federal do Maranhão)
+- 🔭 Cofundador da startup <a href="https://www.imaginakids.com.br/" target="_blank">ImaginaKIDS</a>
+- 🥇 Titulação:
+  - Graduação em Ciência da Computação [UFMA]
+  - Mestrado em Engenharia Elétrica (área da Computação) [UFMA]
+  - Doutorado em Engenharia Elétrica [UFCG]
+- 🌱 Áreas de atuação:
+  - Desenvolvimento Móvel e Web
+  - Computação Móvel
+  - Sistemas Distribuídos
+  - Redes de Computadores & Comunicações
+  - Empreendedorismo
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+<!-- - ✍🏻 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee  -->
+- 😄 Pronouns: Ele (He/Him)
+- ⚡ Fun fact: Strings devem ter aspas duplas e a chave tem que estar na mesma linha do `if`! 🤓
+</div>
+
 <br />
 <br />
 <br />
@@ -49,11 +70,14 @@ Here are some ideas to get you started:
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/adobexd.png?raw=true"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/illustrator.png?raw=true"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/photoshop.png?raw=true"/> </a>
 <br />
 <br />
 
-[![rafaelfl's github stats](https://github-readme-stats.vercel.app/api?username=rafaelfl&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+---
+### Github Stats
 
+[![rafaelfl's github stats](https://github-readme-stats.vercel.app/api?username=rafaelfl&include_all_commits=true&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![rafaelfl's top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaelfl&layout=compact&langs_count=8&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
