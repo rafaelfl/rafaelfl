@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 <a href="https://flutter.dev/" target="_blank"><img align="left" alt="Flutter" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/flutter.svg" /></a>
 <a href="https://firebase.google.com/" target="_blank"><img align="left" alt="Firebase" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/firebase.svg" /></a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/python.svg?raw=true"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/c-programming.png"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/c%2B%2B.png"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/c-programming.svg"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/c%2B%2B.svg"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/github.png" />
 
@@ -68,9 +68,9 @@ Here are some ideas to get you started:
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/adobexd.png?raw=true"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/illustrator.png?raw=true"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/photoshop.png?raw=true"/> </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/adobexd.svg?raw=true"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/illustrator.svg?raw=true"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/photoshop.svg?raw=true"/> </a>
 <br />
 <br />
 
