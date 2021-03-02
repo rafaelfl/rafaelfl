@@ -46,9 +46,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Ele (He/Him)
 - ⚡ Fun fact: Strings devem ter aspas duplas e a chave tem que estar na mesma linha do `if`! 🤓
 
-<br />
-<br />
-
 ### Linguagens e ferramentas:
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
