@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<br />
   
 - 💼 Professor Adjunto na UFMA (Universidade Federal do Maranhão)
 - ✍🏻 Fullstack Dev
@@ -47,7 +46,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Ele (He/Him)
 - ⚡ Fun fact: Strings devem ter aspas duplas e a chave tem que estar na mesma linha do `if`! 🤓
 
-<br />
 <br />
 <br />
 
