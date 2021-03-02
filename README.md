@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/rafaelf_l" target="_blank"><img align="left" alt="Rafael Fernandes Lopes | Twitter" width="22px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/twitter.svg" />
 <a href="https://medium.com/@rafaelfernandeslopes" target="_blank"><img align="left" alt="Rafael Fernandes Lopes | Medium" width="22px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/medium.svg" />
 <a href="https://dev.to/rafaelfl" target="_blank"><img align="left" alt="dev to rafaelfl" width="22px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/devto.svg" /></a>
+
+<br />
+<br />
+<br />
   
 - 💼 Professor Adjunto na UFMA (Universidade Federal do Maranhão)
 - ✍🏻 Fullstack Dev
