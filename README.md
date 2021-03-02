@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@rafaelfernandeslopes" target="_blank"><img align="left" alt="Rafael Fernandes Lopes | Medium" width="22px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/medium.svg" />
 <a href="https://dev.to/rafaelfl" target="_blank"><img align="left" alt="dev to rafaelfl" width="22px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/devto.svg" /></a>
   
-<div>
 - 💼 Professor Adjunto na UFMA (Universidade Federal do Maranhão)
+- ✍🏻 Fullstack Dev
 - 🔭 Cofundador da startup <a href="https://www.imaginakids.com.br/" target="_blank">ImaginaKIDS</a>
 - 🥇 Titulação:
   - Graduação em Ciência da Computação [UFMA]
@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 <!-- - ✍🏻 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee  -->
 - 😄 Pronouns: Ele (He/Him)
 - ⚡ Fun fact: Strings devem ter aspas duplas e a chave tem que estar na mesma linha do `if`! 🤓
-</div>
 
 <br />
 <br />
