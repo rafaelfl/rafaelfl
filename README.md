@@ -64,8 +64,6 @@ Here are some ideas to get you started:
     <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/git.svg"/> </a>
     <a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/github.svg"/> </a>
 </div>
-
-<br />
 <br />
 <br />
 
