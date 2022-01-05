@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   - Computação Móvel
   - Sistemas Distribuídos
   - Redes de Computadores & Comunicações
-  - Empreendedorismo
+  - Empreendedorismo & Inovação
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
