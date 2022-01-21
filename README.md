@@ -1,21 +1,4 @@
-<!--### Hi there 
-
-
-**rafaelfl/rafaelfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Olá, bem vindo ao meu perfil no GitHub! <img src="https://github.com/rafaelfl/rafaelfl/blob/main/img/Hi.gif" width="30px">👨‍💻
+## Hello! Welcome to my GitHub profile! <img src="https://github.com/rafaelfl/rafaelfl/blob/main/img/Hi.gif" width="30px">👨‍💻
 
 <a href="https://www.linkedin.com/in/rafael-fernandes-lopes/" target="_blank"><img align="left" alt="Rafael Fernandes Lopes | LinkedIn" width="22px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/linkedin.svg" />
 <a href="https://instagram.com/rafaelf_l" target="_blank"><img align="left" alt="Rafael Fernandes Lopes | Instagram" width="22px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/instagram.svg" />
@@ -26,27 +9,26 @@ Here are some ideas to get you started:
 <br />
 <br />
   
-- 💼 Professor Adjunto na UFMA (Universidade Federal do Maranhão)
+- 💼 Adjunct Professor at UFMA (Federal University of Maranhão - Universidade Federal do Maranhão [UFMA])
 - ✍🏻 Fullstack Dev
-- 🔭 Cofundador da startup <a href="https://www.imaginakids.com.br/" target="_blank">ImaginaKIDS</a>
-- 🥇 Titulação:
-  - Graduação em Ciência da Computação [UFMA]
-  - Mestrado em Engenharia Elétrica (área da Computação) [UFMA]
-  - Doutorado em Engenharia Elétrica [UFCG]
-- 🌱 Áreas de atuação:
-  - Desenvolvimento Móvel e Web
-  - Computação Móvel
-  - Sistemas Distribuídos
-  - Redes de Computadores & Comunicações
-  - Empreendedorismo & Inovação
+- 🔭 Cofounder of the <a href="https://www.imaginakids.com.br/" target="_blank">ImaginaKIDS</a> startup
+- 🥇 Education:
+  - Bachelor in Computer Science [UFMA]
+  - M.Sc. in Electrical Engineering (area: Computer Science / Distributed Systems) [UFMA]
+  - Ph.D. in Electrical Engineering (area: Information Processing / Wireless Comm) [UFCG]
+- 🌱 Main areas:
+  - Web and Mobile Development
+  - Mobile Computing
+  - Distributed Systems and Cloud Computing
+  - Communication and Computer Networks
+  - Product, Innovation & Entrepreneurship
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-<!-- - ✍🏻 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee  -->
 - 😄 Pronouns: Ele (He/Him)
-- ⚡ Fun fact: Strings devem ter aspas duplas e a chave tem que estar na mesma linha do `if`! 🤓
+- ⚡ Fun fact: Good strings should have double quotes! And the braces must start on the same line as the `if`! 🤓
 
-### Linguagens e ferramentas:
+### Some languages and tools:
 
 <div>
     <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" height="26px" src="https://github.com/rafaelfl/rafaelfl/blob/main/img/html5.svg" /></a>
