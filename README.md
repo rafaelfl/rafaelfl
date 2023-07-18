@@ -10,7 +10,7 @@
 <br />
 
 - 💼 Senior Fullstack Engineer at Fullstack Labs (my professtional Github account: https://github.com/rafaelfsl)
-- 💼 Adjunct Professor at UFMA (Federal University of Maranhão - Universidade Federal do Maranhão [UFMA])
+- 🧑🏻‍🏫 Adjunct Professor at UFMA (Federal University of Maranhão - Universidade Federal do Maranhão [UFMA])
 - ✍🏻 Fullstack Dev
 - 🔭 Cofounder of the <a href="https://www.imaginakids.com.br/" target="_blank">ImaginaKIDS</a> startup
 - 🥇 Education:
