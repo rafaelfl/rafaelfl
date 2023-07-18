@@ -14,9 +14,9 @@
 - ✍🏻 Fullstack Dev
 - 🔭 Cofounder of the <a href="https://www.imaginakids.com.br/" target="_blank">ImaginaKIDS</a> startup
 - 🥇 Education:
-  - Bachelor in Computer Science [UFMA]
-  - M.Sc. in Electrical Engineering (area: Computer Science / Distributed Systems) [UFMA]
   - Ph.D. in Electrical Engineering (area: Information Processing / Wireless Comm) [UFCG]
+  - M.Sc. in Electrical Engineering (area: Computer Science / Distributed Systems) [UFMA]
+  - Bachelor in Computer Science [UFMA]
 - 🌱 Main areas:
   - Web and Mobile Development
   - Mobile Computing
