@@ -8,7 +8,8 @@
 
 <br />
 <br />
-  
+
+- 💼 Senior Fullstack Engineer at Fullstack Labs (my professtional Github account: https://github.com/rafaelfsl)
 - 💼 Adjunct Professor at UFMA (Federal University of Maranhão - Universidade Federal do Maranhão [UFMA])
 - ✍🏻 Fullstack Dev
 - 🔭 Cofounder of the <a href="https://www.imaginakids.com.br/" target="_blank">ImaginaKIDS</a> startup
@@ -25,7 +26,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 😄 Pronouns: Ele (He/Him)
+- 😄 Pronouns: Ele/Dele (He/Him)
 - ⚡ Fun fact: Good strings should have double quotes! And the braces must start on the same line as the `if`! 🤓
 
 ### Some languages and tools:
