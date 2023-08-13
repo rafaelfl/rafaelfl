@@ -59,8 +59,10 @@
 <br />
 <br />
 
+<!--
 ---
 ### Github Stats
 
 [![rafaelfl's github stats](https://github-readme-stats.vercel.app/api?username=rafaelfl&include_all_commits=true&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![rafaelfl's top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaelfl&layout=compact&langs_count=8&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+-->
